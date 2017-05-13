@@ -31,7 +31,7 @@
     "example": "webpack-dev-server --open --hot --config example/webpack.config.js",
     "lint": "tslint \"src/**/*.ts\" && tslint \"test/**/*.ts\"",
     "test": "npm run lint && npm run test:unit",
-    "test:unit": "webpack --config scripts/webpack.config.test.js && testem ci --launch PhantomJS"
+    "test:unit": "webpack --config scripts/webpack.config.test.js && testem ci --launch Firefox"
   },
   "devDependencies": {
     "@types/mocha": "^2.2.32",

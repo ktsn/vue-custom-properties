@@ -2,6 +2,8 @@ import assert = require('power-assert')
 import Vue from 'vue'
 import VueCustomProperties from '../src/index'
 
+Vue.config.productionTip = false
+
 describe('Vue Custom Properties', () => {
   before(() => {
     Vue.use(VueCustomProperties)
