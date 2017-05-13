@@ -1,6 +1,6 @@
 # vue-custom-properties
 
-Make easyer to use CSS custom properties in Vue components
+Make easier to use CSS custom properties in Vue components
 
 ## Installation
 
@@ -16,7 +16,7 @@ $ yarn add vue-custom-properties
 
 ```js
 import Vue from 'vue'
-import VueCustomProperties from 'vue-custom-propeties'
+import VueCustomProperties from 'vue-custom-properties'
 
 Vue.use(VueCustomProperties)
 ```

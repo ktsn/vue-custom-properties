@@ -2,7 +2,7 @@
   "name": "vue-custom-properties",
   "version": "0.0.0",
   "author": "katashin",
-  "description": "Make easyer to use CSS custom properties in Vue components",
+  "description": "Make easier to use CSS custom properties in Vue components",
   "keywords": [
     "CSS",
     "Custom Propeties",
